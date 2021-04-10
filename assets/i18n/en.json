@@ -1,0 +1,6 @@
+{
+    "APP_NAME": "MS Game",
+    "MESSAGE": "Welcome",
+    "PLAYER_NAME": "Player {{value}} Name",
+    "PLACEHOLDER_PLAYER": "Enter Player {{ value }} Name"
+}
